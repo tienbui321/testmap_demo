@@ -1,0 +1,911 @@
+[
+  {
+    "name": "Tú Uyên",
+    "phone": null,
+    "email": null,
+    "location": "Quận 3, Hồ Chí Minh",
+    "description": "Chuyên môi giới nhà và đất khu vực trung tâm Q.1,Q.3,Q.10,Bình Thạnh, Phú Nhuận, Tân Bình. Giới thiệu cho khách hàng những sản phẩm BĐS tốt nhất về giá cả,cung đường, giá trị tăng trưởng,...",
+    "profile_url": "https://alonhadat.com.vn/nha-moi-gioi/tuu-260291.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "Giảm 10 tỷ bán KS VIP Tên Lửa B/Tân 20x20m hầm 6 t/1920m2 sân HDT 350tr/61 tỷ",
+        "price": "61 tỷ",
+        "location": "Đường Số 33, Phường Bình Trị Đông B, Quận Bình Tân, Hồ Chí Minh",
+        "type": "house",
+        "area": "1920m2",
+        "short_description": "16m 6 lầu 55 phòng ngủ 400 20x20m _",
+        "full_url": "https://alonhadat.com.vn/giam-10-ty-ban-ks-vip-ten-lua-b-tan-20x20m-ham-6-t-1920m2-san-hdt-350tr-61-ty-17446335.html"
+      },
+      {
+        "title": "Bán nhà giá rẻ 2 MT đường 154 P.Tan Phú Q9 DT 12mx50 CN 579m2 gần ga metro giá 35 tỷ",
+        "price": "35 tỷ",
+        "location": "Đường số 154, Phường Tam Phú, Thành phố Thủ Đức, Hồ Chí Minh",
+        "type": "house",
+        "area": "579m2",
+        "short_description": "16m 1 lầu 10 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/ban-nha-gia-re-2-mt-duong-154-p-tan-phu-q9-dt-12mx50-cn-579m2-gan-ga-metro-gia-35-ty-17454349.html"
+      },
+      {
+        "title": "Bán nhà MT Tôn Thất Đạm P.Bến Nghé Q1 DT 4x12m CN 42m2 gần hầm Nghĩa Gia 31 tỷ TL",
+        "price": "31 tỷ",
+        "location": "Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh",
+        "type": "house",
+        "area": "42m2",
+        "short_description": "20m 4 lầu 6 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mt-ton-that-dam-p-ben-nghe-q1-dt-4x12m-cn-42m2-gan-ham-nghi-gia-31-ty-tl-17452993.html"
+      },
+      {
+        "title": "Bán nhà MT Tôn Thất Đạm Q1 DT 4x18m CN 70m2 3 tầng trung tâm Nguyễn Huệ giá 50 tỷ",
+        "price": "50 tỷ",
+        "location": "Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh",
+        "type": "house",
+        "area": "70m2",
+        "short_description": "20m 3 lầu 6 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mt-ton-that-dam-q1-dt-4x18m-cn-70m2-3-tang-trung-tam-nguyen-hue-gia-50-ty-17453066.html"
+      },
+      {
+        "title": "Bán nhà MT Tôn Thất Đạm P.Bến Nghé Q1 DT 4x17m CN 67m2 4 tầng HDT 30tr/th giá 43 tỷ",
+        "price": "43 tỷ",
+        "location": "Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh",
+        "type": "house",
+        "area": "67m2",
+        "short_description": "20m 4 lầu 6 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mt-ton-that-dam-p-ben-nghe-q1-dt-4x17m-cn-67m2-4-tang-hdt-30tr-th-gia-43-ty-17453271.html"
+      },
+      {
+        "title": "Bán nhà MT Tôn Thất Đạm P.Bến Nghé Q1 DT 4x17m CN 67m2 5 tầng gần Nguyễn Huệ 45 tỷ",
+        "price": "45 tỷ",
+        "location": "Đường Tôn Thất Đạm, Phường Bến Nghé, Quận 1, Hồ Chí Minh",
+        "type": "house",
+        "area": "67m2",
+        "short_description": "20m 5 lầu 6 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mt-ton-that-dam-p-ben-nghe-q1-dt-4x17m-cn-67m2-5-tang-gan-nguyen-hue-45-ty-17453392.html"
+      },
+      {
+        "title": "Bán Tòa 21 CHDV cao cấp HXH Nguyễn Thị Định DT 172m2 đất 5 tầng HDT 75tr 17 tỷ TL",
+        "price": "17 tỷ",
+        "location": "Đường Nguyễn Thị Định, Phường Bình Trưng Tây, Thành phố Thủ Đức, Hồ Chí Minh",
+        "type": "building",
+        "area": "172m2",
+        "short_description": "6m 5 lầu 21 phòng ngủ 4,5x30m _",
+        "full_url": "https://alonhadat.com.vn/ban-toa-21-chdv-cao-cap-hxh-nguyen-thi-dinh-dt-172m2-dat-5-tang-hdt-75tr-17-ty-tl-17374438.html"
+      },
+      {
+        "title": "Bán trường học 4 MT Sử Hy Nhan P.Thạnh Mỹ Lợi Q2 DT 70x115m CN 7564m2 giá 350 tỷ",
+        "price": "350 tỷ",
+        "location": "Đường Sử Hy Nhan, Phường Thạnh Mỹ Lợi, Thành phố Thủ Đức, Hồ Chí Minh",
+        "type": "school",
+        "area": "7564m2",
+        "short_description": "20m 2 lầu 30 phòng ngủ 70x115m _",
+        "full_url": "https://alonhadat.com.vn/ban-truong-hoc-4-mt-su-hy-nhan-p-thanh-my-loi-q2-dt-70x115m-cn-7564m2-gia-350-ty-17460475.html"
+      },
+      {
+        "title": "Bán nhà MT Nguyễn Thị Định P.Bình Trưng Đông Q2 DT 14x50m CN 508m2 giá 80 tỷ",
+        "price": "80 tỷ",
+        "location": "Đường Nguyễn Thị Định, Phường Bình Trưng Đông, Thành phố Thủ Đức, Hồ Chí Minh",
+        "type": "house",
+        "area": "508m2",
+        "short_description": "30m 1 lầu 2 phòng ngủ 14x50m _",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mt-nguyen-thi-dinh-p-binh-trung-dong-q2-dt-14x50m-cn-508m2-gia-80-ty-17460274.html"
+      },
+      {
+        "title": "Bán Tòa CHDV Lê Văn Quới Ngã Tư Bốn Xa DT 8x29m CN 232m2 6 tầng HDT 74tr giá 26,5 tỷ",
+        "price": "26,5 tỷ",
+        "location": "Đường Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh",
+        "type": "building",
+        "area": "232m2",
+        "short_description": "16m 6 lầu 28 phòng ngủ 8x29m _",
+        "full_url": "https://alonhadat.com.vn/ban-toa-chdv-le-van-quoi-nga-tu-bon-xa-dt-8x29m-cn-232m2-6-tang-hdt-74tr-gia-26-5-ty-17460120.html"
+      }
+    ]
+  },
+  {
+    "name": "Vũ Kim Dung",
+    "phone": null,
+    "email": null,
+    "location": "Quận Ngũ Hành Sơn, Đà Nẵng",
+    "description": "chuyên môi giới khách sạn,đất biển,nhà phố tại các quận thuộc TP Đà Nẵng. Chuyên Nghiệp - Uy Tín - Tận Tâm - làm việc trực tiếp chính chủ không qua bên trung gian thứ 2",
+    "profile_url": "https://alonhadat.com.vn/nha-moi-gioi/gia-781330.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "Bán nhà 3 tầng 2MT đường 7m5 Lê Phụng Hiểu ngay khán đài pháo hoa cầu Sông Hàn Sơn Trà",
+        "price": "11,2 tỷ",
+        "location": "Đường Lê Phụng Hiểu, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "92m2",
+        "short_description": "7m 3 lầu 6 phòng ngủ 4,6x20m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-3-tang-2mt-duong-7m5-le-phung-hieu-ngay-khan-dai-phao-hoa-cau-song-han-son-tra-17379504.html"
+      },
+      {
+        "title": "Bán nhà 3 tầng đường 7m5 Hoàng Đức Lương An Hải Bắc Sơn Trà DT 100m2 giá 12.8 tỷ",
+        "price": "12,6 tỷ",
+        "location": "Đường Hoàng Đức Lương, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "100m2",
+        "short_description": "7m 3 lầu 3 phòng ngủ 5x20m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-3-tang-duong-7m5-hoang-duc-luong-an-hai-bac-son-tra-dt-100m2-gia-12-8-ty-17008797.html"
+      },
+      {
+        "title": "Bán nhà 4 tầng MT đường 7m5 Man Thiện Hòa Thuận Tây Hải Châu DT 97m2 giá 10 tỷ TL",
+        "price": "10 tỷ",
+        "location": "Đường Man Thiện, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",
+        "type": "house",
+        "area": "97m2",
+        "short_description": "7m 4 lầu 4 phòng ngủ 5x19,5m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-4-tang-mt-duong-7m5-man-thien-hoa-thuan-tay-hai-chau-dt-97m2-gia-10-ty-tl-16992572.html"
+      },
+      {
+        "title": "Bán đất góc 2 MT đường 10m5 Hà Tông Quyền Khuê Trung Cẩm Lệ DT 169m2 giá 11.5 tỷ",
+        "price": "11,5 tỷ",
+        "location": "Đường Hà Tông Quyền, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "land",
+        "area": "169m2",
+        "short_description": "10m 7,2x24m",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-goc-2-mt-duong-10m5-ha-tong-quyen-khue-trung-cam-le-dt-169m2-gia-11-5-ty-17356494.html"
+      },
+      {
+        "title": "Bán đất đường Triệu Quốc Đạt gần Nguyễn Phước Tần DT 77.6m2 giá 4.35 tỷ TL",
+        "price": "4,35 tỷ",
+        "location": "Đường Triệu Quốc Đạt, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "land",
+        "area": "78m2",
+        "short_description": "5m 5x15,55m",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-duong-trieu-quoc-dat-gan-nguyen-phuoc-tan-dt-77-6m2-gia-4-35-ty-tl--17356733.html"
+      },
+      {
+        "title": "Bán nhà 3 tầng MT đường Trần Thủ Độ sát CV Thanh Niên DT 100m2 giá 8.5 tỷ TL",
+        "price": "8,5 tỷ",
+        "location": "Đường Trần Thủ Độ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "house",
+        "area": "100m2",
+        "short_description": "10m 3 lầu 3 phòng ngủ 5x20m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-3 TANG-MT-DUONG-TRAN-THU-DO-SAT-CV-THANH-NIEN-DT-100M2-GIA-8-5-TY-TL--16461074.html"
+      },
+      {
+        "title": "Bán đất MT đường Đầm Rong 2 Thanh Bình Hải Châu DT 94m2 giá 7.2 tỷ TL",
+        "price": "7,2 tỷ",
+        "location": "Đường Đầm Rong 2, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",
+        "type": "land",
+        "area": "94m2",
+        "short_description": "5m 5,5x16,85m",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-mt-duong-dam-rong-2-thanh-binh-hai-chau-dt-94m2-gia-7-2-ty-tl--16466918.html"
+      },
+      {
+        "title": "Bán nhà 2 tầng đường 7m5 Tôn Đản Hòa Phát Cẩm Lệ DT 90m2 giá 5.4 tỷ TL",
+        "price": "5,6 tỷ",
+        "location": "Đường Tôn Đản, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "house",
+        "area": "90m2",
+        "short_description": "7m 2 lầu 3 phòng ngủ 4,6x20,3m",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-2-tang-duong-7m5-ton-dan-hoa-phat-cam-le-dt-90m2-gia-5-4-ty-tl--16901828.html"
+      },
+      {
+        "title": "Bán nhà 2 tầng đường 7m5 Tú Mỡ gần BX Trung Tâm DT 102m2 giá 6.9 tỷ TL",
+        "price": "6,9 tỷ",
+        "location": "Đường Tú Mỡ, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "house",
+        "area": "102m2",
+        "short_description": "7m 2 lầu 3 phòng ngủ 5x20,4m",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-2-tang-duong-7m5-tu-mo-gan-bx-trung-tam-dt-102m2-gia-6-9-ty-tl--17319951.html"
+      },
+      {
+        "title": "Bán nhà MT đường Tân An 2 Hòa Cường Bắc Hải Châu DT 74m2 giá 7.2 tỷ TL",
+        "price": "7,2 tỷ",
+        "location": "Đường Tân An 2, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",
+        "type": "house",
+        "area": "74m2",
+        "short_description": "5m 1 lầu 2 phòng ngủ 4,5x16m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mt-duong-tan-an-2-hoa-cuong-bac-hai-chau-dt-74m2-gia-7-2-ty-tl--17385464.html"
+      }
+    ]
+  },
+  {
+    "name": "Nguyễn Văn Hưởng",
+    "phone": null,
+    "email": null,
+    "location": "Quận Thanh Khê, Đà Nẵng",
+    "description": "Chuyên Mua và Bán BĐS khu vực trung tâm TP Sài Gòn, Đà Nẵng, Nha Trang, Hải Phòng, Quảng Ninh. Với đội ngũ trên 10 năm kinh nghiệm sẽ mang đến cho KH những SP và Dịch Vụ tối ưu nhất !",
+    "profile_url": "https://alonhadat.com.vn/nha-moi-gioi/huo-561476.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "Bán KS 5 tầng đường Lê Mạnh Trinh Phước Mỹ Sơn Trà DT 100m2 giá 20.5 tỷ",
+        "price": "20,5 tỷ",
+        "location": "Đường Lê Mạnh Trinh, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "100m2",
+        "short_description": "7m 5 lầu 11 phòng ngủ 5x20m",
+        "full_url": "https://alonhadat.com.vn/-ban-ks-5-tang-duong-le-manh-trinh-phuoc-my-son-tra-dt-100m2-gia-20-5-ty--16190958.html"
+      },
+      {
+        "title": "Bán căn hộ 6 tầng đường Đinh Thị Hòa An Hải Bắc Sơn Trà DT 5.5m x 20.2m thu net 80 triệu t",
+        "price": "24 tỷ",
+        "location": "Đường Đinh Thị Hòa, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",
+        "type": "apartment",
+        "area": "99m2",
+        "short_description": "7,5m 6 lầu 10 phòng ngủ 5,5x20m",
+        "full_url": "https://alonhadat.com.vn/ban-can-ho-6-tang-duong-dinh-thi-hoa-an-hai-bac-son-tra-dt-5-5m-x-20-2m-thu-net-80-trieu-t-17437107.html"
+      },
+      {
+        "title": "Bán biệt thự nhà 3 tầng MT Ngô Thế Vinh Phương Hải Châu Đà Nẵng DT 10m x 22m",
+        "price": "18 tỷ",
+        "location": "Đường Ngô Thế Vinh, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",
+        "type": "villa",
+        "area": "218m2",
+        "short_description": "5,5m 3 lầu 4 phòng ngủ 10x21,8m",
+        "full_url": "https://alonhadat.com.vn/ban-biet-thu-nha-3-tang-mt-ngo-the-vinh-phuong-hai-chau-da-nang-dt-10m-x-22m-17438817.html"
+      },
+      {
+        "title": "Bán nhà 3 tầng đường Lương Nhữ Học Hòa Cường Bắc Hải Châu DT102m2 giá 13.5 tỷ TL",
+        "price": "13 tỷ",
+        "location": "Đường Lương Nhữ Hộc, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",
+        "type": "house",
+        "area": "102m2",
+        "short_description": "7m 3 lầu 3 phòng ngủ 5,5x18,5m",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-3-tang-duong-luong-nhu-hoc-hoa-cuong-bac-hai-chau-dt102m2-gia-13-5-ty-tl-17200103.html"
+      },
+      {
+        "title": "Bán nhà 4 tầng MT đường Hà Huy Tập gần Nguyễn Tất Thành DT 98m2 giá 12.8 tỷ TL",
+        "price": "12,8 tỷ",
+        "location": "Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",
+        "type": "house",
+        "area": "98m2",
+        "short_description": "10m 5 lầu 8 phòng ngủ 4,85x20,3m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-4-tang-mt-duong-ha-huy-tap-gan-nguyen-tat-thanh-dt-98m2-gia-12-8-ty-tl--17415156.html"
+      },
+      {
+        "title": "Bán nhà nhà 3 tầng ngang 10m đường Nguyễn Hữu Thọ Hải Châu DT 310m2 giá 44 tỷ",
+        "price": "44 tỷ",
+        "location": "Đường Nguyễn Hữu Thọ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",
+        "type": "house",
+        "area": "310m2",
+        "short_description": "33m 3 lầu 10x31m",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-nha-3-tang-ngang-10m-duong-nguyen-huu-tho-hai-chau-dt-310m2-gia-44-ty-17291417.html"
+      },
+      {
+        "title": "Bán nhà 4 tầng đường 15m Trịnh Đình Thảo sát công viên Thanh Niên 100m2 giá 12.5 tỷ",
+        "price": "12,5 tỷ",
+        "location": "Đường Trịnh Đình Thảo, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "house",
+        "area": "100m2",
+        "short_description": "15m 4 lầu 4 phòng ngủ 5x20m",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-4-tang-duong-15m-trinh-dinh-thao-sat-cong-vien-thanh-nien-100m2-gia-12-5-ty--17311868.html"
+      },
+      {
+        "title": "Bán nhà 3 tầng MT đường Bình Minh 1 Bình Thuận Hải Châu DT 76.5m2 giá 11 tỷ TL",
+        "price": "11 tỷ",
+        "location": "Đường Bình Minh 1, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng",
+        "type": "house",
+        "area": "77m2",
+        "short_description": "5m 3 lầu 4 phòng ngủ 4,5x17m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-3-tang-mt-duong-binh-minh-1-binh-thuan-hai-chau-dt-76-5m2-gia-11-ty-tl--16281221.html"
+      },
+      {
+        "title": "Bán nhà 3 tầng đường 15m Trịnh Đình Thảo Khuê Trung Cẩm Lệ DT 127m2 giá 11 tỷ TL",
+        "price": "11 tỷ",
+        "location": "Đường Trịnh Đình Thảo, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "house",
+        "area": "127m2",
+        "short_description": "15m 3 lầu 4 phòng ngủ 5x25,5m",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-3-tang-duong-15m-trinh-dinh-thao-khue-trung-cam-le-dt-127m2-gia-11-ty-tl-16947192.html"
+      },
+      {
+        "title": "Bán nhà 3 tầng MT đường Trần Thủ Độ sát CV Thanh Niên DT 100m2 giá 7.6 tỷ TL",
+        "price": "8,5 tỷ",
+        "location": "Đường Trần Thủ Độ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "house",
+        "area": "100m2",
+        "short_description": "10m 3 lầu 3 phòng ngủ 5x20m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-3-tang-mt-duong-tran-thu-do-sat-cv-thanh-nien-dt-100m2-gia-7-6-ty-tl--14671994.html"
+      }
+    ]
+  },
+  {
+    "name": "nguyễn kim",
+    "phone": "0837778811",
+    "email": null,
+    "location": "Quận Long Biên, Hà Nội",
+    "description": "EM KIM NHÀ ĐẤT LONG BIÊN.GIA LÁM mong được phục vụ khách hàng hãy gọi cho tôi 0837778811 e Kim . zalo 0837778811 / facebook",
+    "profile_url": "https://alonhadat.com.vn/nha-moi-gioi/ngu-861861.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "20,8 tỷ 101 m2 5,8 m t view hồ bò để ô tô chánh",
+        "price": "21,5 tỷ",
+        "location": "Phố Bồ Đề, Phường Bồ Đề, Quận Long Biên, Hà Nội",
+        "type": "house",
+        "area": "101m2",
+        "short_description": "4,5m",
+        "full_url": "https://alonhadat.com.vn/20-8-ty-101-m2-5-8-mt-view-ho-bo-de-o-to-chanh-16041221.html"
+      },
+      {
+        "title": "Hàng đẹp 31,x tỷ 108 m2 7 m t tiên hoàng minh đạo",
+        "price": "31,6 tỷ",
+        "location": "Phố Hoàng Minh Đạo, Phường Bồ Đề, Quận Long Biên, Hà Nội",
+        "type": "house",
+        "area": "108m2",
+        "short_description": "3m 6 lầu 4 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/hang-dep-31-x-ty-108-m2-7-m-tien-hoang-minh-dao-17189233.html"
+      },
+      {
+        "title": "35 tỷ 123 m2 6 tầng 7 m t lk khai sơn view công viên hồ",
+        "price": "45,8 tỷ",
+        "location": "Đường Nguyễn Gia Bồng, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",
+        "type": "house",
+        "area": "123m2",
+        "short_description": "30m 6 lầu 5 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/35-ty-123-m2-6-tang-7-mt-lk-khai-son-view-cong-vien-ho-16341739.html"
+      },
+      {
+        "title": "264,5 tỷ 722 m2 8 tầng 18,4 m t toà căn hộ cao cấp ngọc thụy",
+        "price": "264,5 tỷ",
+        "location": "Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",
+        "type": "apartment",
+        "area": "722m2",
+        "short_description": "10m 8 lầu 30 phòng ngủ 18,4x40m",
+        "full_url": "https://alonhadat.com.vn/264-5-ty-722-m2-8-tang-18-4-mt-toa-can-ho-cao-cap-ngoc-thuy-16152842.html"
+      },
+      {
+        "title": "Mặt phố ngọc lâm 85 m2 26,7 tỷ 4,4 m t",
+        "price": "28 tỷ",
+        "location": "Đường Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+        "type": "house",
+        "area": "85m2",
+        "short_description": "15m 1 lầu 1 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/mat-pho-ngoc-lam-85-m2-26-7-ty-4-4-mt-16152421.html"
+      },
+      {
+        "title": "Siêu siêu phẩm 55 tỷ 255 m2 6 tầng 17,5 m t lô góc mặt phố nga tu",
+        "price": "55 tỷ",
+        "location": "Đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",
+        "type": "house",
+        "area": "255m2",
+        "short_description": "15m 6 lầu 4 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/sieu-sieu-pham-55-ty-255-m2-6-tang-17-5-mt-lo-goc-mat-pho-nga-tu-16151218.html"
+      },
+      {
+        "title": "30 tỷ 170-176 m2 mặt phố hoá đồng 7,6 m t",
+        "price": "29 tỷ",
+        "location": ", Phường Cự Khối, Quận Long Biên, Hà Nội",
+        "type": "house",
+        "area": "170m2",
+        "short_description": "12m 2 lầu 2 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/30-ty-170-176-m2-mat-pho-hoa-dong-7-6-mt-16135995.html"
+      },
+      {
+        "title": "142 m2 21,5 tỷ mặt phố y lan phủ thị gia lâm",
+        "price": "21 tỷ",
+        "location": "Đường Ỷ Lan, Xã Phú Thị, Huyện Gia Lâm, Hà Nội",
+        "type": "house",
+        "area": "142m2",
+        "short_description": "10m",
+        "full_url": "https://alonhadat.com.vn/142-m2-21-5-ty-mat-pho-y-lan-phu-thi-gia-lam-16771215.html"
+      },
+      {
+        "title": "134 m2 7,7mt 3t 10,5 tỷ kiến thành ô tô vào nhà",
+        "price": "10,5 tỷ",
+        "location": "Đường Kiên Thành, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",
+        "type": "house",
+        "area": "134m2",
+        "short_description": "4m 3 lầu 8 phòng ngủ 7,7x17,3m",
+        "full_url": "https://alonhadat.com.vn/134-m2-7-7mt-3t-10-5-ty-kien-thanh-o-to瓦家-15290162.html"
+      },
+      {
+        "title": "20,8 tỷ 120 m2 5 tầng 6 m t mặt phố cứu việt",
+        "price": "20,8 tỷ",
+        "location": "Đường Cửu Việt 1, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",
+        "type": "house",
+        "area": "120m2",
+        "short_description": "6m 5 lầu 25 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/20-8-ty-120-m2-5-tang-6-mt-mat-pho-cuu-viet-16348759.html"
+      }
+    ]
+  },
+  {
+    "name": "Trần Văn Kim Cang",
+    "phone": null,
+    "email": null,
+    "location": "Quận Sơn Trà, Đà Nẵng",
+    "description": "CHuyên gia tư vấn Bất Động sản biển, nhà phố, khách sạn từ 3 đến 5 sao đề cao sự trung thực và tính chính xác trong việc cung cấp thông tin Trung Thực, Trung Thực và luôn luôn Trung thực",
+    "profile Tania": "https://alonhadat.com.vn/nha-moi-gioi/kim-897583.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "Đừng bỏ qua biệt thự 3 tầng ngang 10m trung tâm Hải Châu giá chỉ 18 tỷ",
+        "price": "18 tỷ",
+        "location": "Đường Ngô Thế Vinh, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",
+        "type": "villa",
+        "area": "220m2",
+        "short_description": "5,5m 3 lầu 5 phòng ngủ 10x22m",
+        "full_url": "https://alonhadat.com.vn/-dung-bo-qua-biet-thu-3-tang-ngang-10m-trung-tam-hai-chau-gia-chi-18-ty--16987944.html"
+      },
+      {
+        "title": "Sắp hạ bán đất ven biển đường Nguyễn Thị Bảy cách biển chỉ 150m",
+        "price": "17,9 tỷ",
+        "location": "Đường Nguyễn Thị Bảy, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",
+        "type": "land",
+        "area": "377m2",
+        "short_description": "5,5m 13x29m",
+        "full_url": "https://alonhadat.com.vn/-sap-ham-ban-dat-ven-bien-duong-nguyen-thi-bay-cach-bien-chi-150m--17431584.html"
+      },
+      {
+        "title": "Giá sắp hạ chỉ 17,5 tỷ rẻ hơn thị trường gần 3 tỷ đất biệt thự Lê Văn Miến cách b",
+        "price": "17,5 tỷ",
+        "location": "Đường Lê Văn Miến, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",
+        "type": "land",
+        "area": "360m2",
+        "short_description": "7,5m 15x24m",
+        "full_url": "https://alonhadat.com.vn/-gia-sap-ham-chi-17-5-ty-re-hon-thi-truong-gan-3-ty-dat-biet-thu-le-van-mien-cach-b-17431619.html"
+      },
+      {
+        "title": "Bán biệt thự VIP nhất Hòa Xuân siêu phẩm đẳng cấp có 1 0 2",
+        "price": "41 tỷ",
+        "location": "Đường An Thượng 2, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "villa",
+        "area": "90m2",
+        "short_description": "7,5m 3 lầu 8 phòng ngủ 5x18m",
+        "full_url": "https://alonhadat.com.vn/-ban-biet-thu-vip-nhat-hoa-xuan-sieu-pham-dang-cap-co-1-0-2--17109558.html"
+      },
+      {
+        "title": "Giá rẻ nhất thị trường căn góc vị trí đắc địa nằm trên con phố du lịch sầm uất",
+        "price": "22 tỷ",
+        "location": "Đường Đặng Huy Trứ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",
+        "type": "house",
+        "area": "207m2",
+        "short_description": "7,5m 3 lầu 5 phòng ngủ 9x23m",
+        "full_url": "https://alonhadat.com.vn/-gia-re-nhat-thi-truong-can-goc-vi-tri-dac-dia-nam-tren-con-pho-du-lich-sam-uat--17125684.html"
+      },
+      {
+        "title": "Bán gấp giá sập sàn ngay phố Tây An Thượng",
+        "price": "19 tỷ",
+        "location": "Đường Châu Thị Vĩnh Tế, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "house",
+        "area": "120m2",
+        "short_description": "7,5m 2 lầu 3 phòng ngủ 5x24m",
+        "full_url": "https://alonhadat.com.vn/-ban-gap-gia-sap-san-ngay-pho-tay-an-thuong--17143206.html"
+      },
+      {
+        "title": "Khách sạn 4 sao lô góc 2 mặt tiền Võ Nguyên Giáp 12 tầng view biển trực diện",
+        "price": "390 tỷ",
+        "location": "Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "hotel",
+        "area": "506m2",
+        "short_description": "15m 12 lầu 84 phòng ngủ 22x23m",
+        "full_url": "https://alonhadat.com.vn/khach-san-4-sao-lo-goc-2-mat-tien-vo-nguyen-giap-12-tang-view-bien-truc-dien--17165649.html"
+      },
+      {
+        "title": "Bán nhà 4 tầng đường Nguyễn Văn Linh 106m giá chỉ 24,3 tỷ vị trí vàng",
+        "price": "24,3 tỷ",
+        "location": "Đường Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",
+        "type": "house",
+        "area": "106m2",
+        "short_description": "33m 4 lầu 5 phòng ngủ 4,5x23,5m",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-4-tang-duong-nguyen-van-linh-106m-gia-chi-24-3-ty-vi-tri-vang-17182279.html"
+      },
+      {
+        "title": "Duy nhất siêu phẩm 2 mặt tiền Võ Nguyên Giáp cách bãi tắm sao biển 200m cực kỳ hiếm",
+        "price": "37 tỷ",
+        "location": "Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "house",
+        "area": "140m2",
+        "short_description": "15m 7x20m",
+        "full_url": "https://alonhadat.com.vn/-duy-nhat-sieu-pham-2-mat-tien-vo-nguyen-giap-cach-bai-tam-sao-bien-200m-cuc-ky-hiem-17203136.html"
+      },
+      {
+        "title": "Bán lô đất vàng cực rẻ đường Đỗ Bá thông biển Mỹ Khê",
+        "price": "52 tỷ",
+        "location": "Đường Đỗ Bá, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "land",
+        "area": "283m2",
+        "short_description": "10m 9,15x31m",
+        "full_url": "https://alonhadat.com.vn/-ban-lo-dat-vang-cuc-re-duong-do-ba-thong-bien-my-khe--17215271.html"
+      }
+    ]
+  },
+  {
+    "name": "Nguyễn Linh",
+    "phone": null,
+    "email": null,
+    "location": "Quận Hải Châu, Đà Nẵng",
+    "description": "Môi giới nhà đất thổ cư tại Đà Nẵng. Uy tín - tận tâm. Làm việc trực tiếp giữa người mua và người bán, ko qua trung gian, không nâng giá bán.",
+    "profile_url": "https://alonhadat.com.vn/nha-moi-gioi/097-482602.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "Bán đất đường Lê Cao Lãng đối lưng với Thăng Long sát sông DT 100m2 giá 4,85 tỷ",
+        "price": "4,85 tỷ",
+        "location": "Đường Lê Cao Lãng, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "land",
+        "area": "100m2",
+        "short_description": "5,5m chỗ để xe 5x20m Bắc",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-duong-le-cao-lang-doi-lung-voi-thang-long-sat-song-dt-100m2-gia-4-85-ty-tl-17352442.html"
+      },
+      {
+        "title": "Bán đất đường Triệu Quốc Đạt gần Nguyễn Phước Tần DT 77,6m2 giá 4,35 tỷ",
+        "price": "4,35 tỷ",
+        "location": "Đường Triệu Quốc Đạt, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "land",
+        "area": "78m2",
+        "short_description": "5,5m chỗ để xe 5x15,5m Bắc",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-duong-trieu-quoc-dat-gan-nguyen-phuoc-tan-dt-77-6m2-gia-4-35-ty-17363653.html"
+      },
+      {
+        "title": "Bán đất đường Trần Quý Cáp 10m5 gần Phan Bội Châu DT 90m2 giá 11 tỷ",
+        "price": "11 tỷ",
+        "location": "Đường Trần Quý Cáp, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",
+        "type": "land",
+        "area": "90m2",
+        "short_description": "10m chỗ để xe 4,5x20m Tây Bắc",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-duong-tran-quy-cap-10m5-gan-phan-boi-chau-dt-90m2-gia-11-ty-16597487.html"
+      },
+      {
+        "title": "Bán nhà đường Nguyễn Đỗ Cung gần Nam Trần cho thuê 6tr/th DT 83m2 giá 4,65 tỷ",
+        "price": "4,65 tỷ",
+        "location": "Đường Nguyễn Đỗ Cung, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",
+        "type": "house",
+        "area": "83m2",
+        "short_description": "5,5m 1 lầu 2 phòng ngủ chỗ để xe 5x16,6m Bắc",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-duong-nguyen-do-cung-gan-nam-tran-cho-thue-6tr-th-dt-83m2-gia-4-65-ty-tl-17438738.html"
+      },
+      {
+        "title": "Bán lô đất mặt tiền Lê Đại Hành Hòa Phát Cẩm Lệ DT 97,5m2 giá 7 tỷ",
+        "price": "7 tỷ",
+        "location": "Đường Lê Đại Hành, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "land",
+        "area": "98m2",
+        "short_description": "33m chỗ để xe 5x19,5m Tây Bắc",
+        "full_url": "https://alonhadat.com.vn/-ban-lo-dat-mat-tien-le-dai-hanh-hoa-phat-cam-le-dt-97-5m2-gia-7-ty-17098642.html"
+      },
+      {
+        "title": "Bán nhà 4 tầng đường 7,5m Man Thiện khu sân bay Q Hải Châu DT 97m2 giá 9,3 tỷ",
+        "price": "10 tỷ",
+        "location": "Đường Man Thiện, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",
+        "type": "house",
+        "area": "96m2",
+        "short_description": "7,5m 4 lầu 4 phòng ngủ chỗ để xe 5x19,2m Tây",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-4-tang-duong-7-5m-man-thien-khu-san-bay-q-hai-chau-dt-97m2-gia-9-3-ty-tl-15939032.html"
+      },
+      {
+        "title": "Bán cặp đất vàng 200m2 đường Hồ Xuân Hương trực đường biển VIP giá 45 tỷ",
+        "price": "45 tỷ",
+        "location": "Đường Hồ Xuân Hương, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "land",
+        "area": "200m2",
+        "short_description": "30m chỗ để xe 10x20m Tây Bắc",
+        "full_url": "https://alonhadat.com.vn/-ban-cap-dat-vang-200m2-duong-ho-xuan-huong-truc-duong-bien-vip-gia-45-ty-17363062.html"
+      },
+      {
+        "title": "Bán lô đất mặt tiền Lê Đại Hành Hòa Phát Cẩm Lệ DT 97,5m2 giá 7 tỷ",
+        "price": "7 tỷ",
+        "location": "Đường Lê Đại Hành, Phường Cẩm Lệ, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "land",
+        "area": "100m2",
+        "short_description": "33m chỗ để xe 5x20m Tây Bắc",
+        "full_url": "https://alonhadat.com.vn/-ban-lo-dat-mat-tien-le-dai-hanh-hoa-phat-cam-le-dt-97-5m2-gia-7-ty-17438364.html"
+      },
+      {
+        "title": "Bán nhà góc 2 mặt tiền Hà Tông Quyền 10m5 DT 169m2 cho thuê 12tr/th giá 11,5 tỷ",
+        "price": "11,5 tỷ",
+        "location": "Đường Hà Tông Quyền, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "house",
+        "area": "169m2",
+        "short_description": "10m 1 lầu 4 phòng ngủ chỗ để xe 7,2x24m Tây Nam",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-goc-2-mat-tien-ha-tong-quyen-10m5-dt-169m2-cho-thue-12tr-th-gia-11-5-ty-17356815.html"
+      },
+      {
+        "title": "Bán nhà mặt tiền Nguyễn Thiện Kế đối diện trường học DT 70m2 giá 8,5 tỷ",
+        "price": "7,8 tỷ",
+        "location": "Đường Nguyễn Thiện Kế, Phường An Hải Nam, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "70m2",
+        "short_description": "5m 1 lầu 1 phòng ngủ chỗ để xe 3,6x19,8m Đông Bắc",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-mat-tien-nguyen-thien-ke-doi-dien-truong-hoc-dt-70m2-gia-8-5-ty-17271337.html"
+      }
+    ]
+  },
+  {
+    "name": "BÍCH ĐÀO",
+    "phone": "0905.594.992",
+    "email": null,
+    "location": "Quận Sơn Trà, Đà Nẵng",
+    "description": "NHẬN KÝ GỬI MUA BÁN NHÀ PHỐ-TÒA CĂN HỘ-KHÁCH SẠN-ĐẤT THỔ CƯ TẤT CẢ CÁC QUẬN CỦA TRUNG TÂM ĐÀ NẴNG VÀ HỘI AN.UY TÍN-TẬN TÂM-CHUYÊN NGHIỆP lH:0905.594.992",
+    "profile_url": "https://alonhadat.com.vn/nha-moi-gioi/mai-350663.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "Bán nhà mặt phố KD 102m2 sân nhà 3 tầng hiem nhà ban chi 15 ty",
+        "price": "14,5 tỷ",
+        "location": "Đường Lương Nhữ Hộc, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",
+        "type": "house",
+        "area": "102m2",
+        "short_description": "7,5m 3 lầu 3 phòng ngủ Tây",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mat-pho-kd-102m2-san-nha-3-tang-hiem-nha-ban-chi-15-ty-17411545.html"
+      },
+      {
+        "title": "Bán lô ngang 6.3m nguyên công trụ 90m2 ngay song han tt son tra da nang nhinh 9 ty",
+        "price": "9,5 tỷ",
+        "location": "Đường Nguyễn Công Trứ, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "90m2",
+        "short_description": "3m 2 lầu 3 phòng ngủ Đông",
+        "full_url": "https://alonhadat.com.vn/ban-lo-ngang-6-3m-nguyen-cong-tru-90m2-ngay-song-han-tt-son-tra-da-nang-nhinh-9-ty-17447692.html"
+      },
+      {
+        "title": "Bán nhà mặt phố Sơn Trà 3 tầng đường 7m5 ngay ho nghinh tt du lịch Sơn Trà chi 16 ty",
+        "price": "16,8 tỷ",
+        "location": "Đường Nguyễn Công Sáu, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "100m2",
+        "short_description": "7,5m 3 lầu 3 phòng ngủ 5x20m",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mat-pho-son-tra-3-tang-duong-7m5-ngay-ho-nghinh-tt-du-lich-son-tra-chi-16-ty-x-17455546.html"
+      },
+      {
+        "title": "Gia soc duong Le Tan Trung Son Tra 10m5 vi tri kd chi 7 ty",
+        "price": "7 tỷ",
+        "location": "Đường Lê Tấn Trung, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "52m2",
+        "short_description": "10m 3 lầu 3 phòng ngủ 4,3x13m",
+        "full_url": "https://alonhadat.com.vn/gia-soc-duong-le-tan-trung-son-tra-10m5-vi-tri-kd-chi-7-ty-x-17456060.html"
+      },
+      {
+        "title": "Vi tri kim cuong tuyen pho du lich ho nghinh 245m2 ngang 10m ban nhanh chi",
+        "price": "67 tỷ",
+        "location": "Đường Hồ Nghinh, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",
+        "type": "land",
+        "area": "245m2",
+        "short_description": "20m 10x25m Tây",
+        "full_url": "https://alonhadat.com.vn/vi-tri-kim-cuong-tuyen-pho-du-lich-ho-nghinh-245m2-ngang-10m-ban-nhanh-chi-17455630.html"
+      },
+      {
+        "title": "Goc duong 7m5 Luong nhu hoc tt Hai Chau 134m2 ban nhanh 24 ty",
+        "price": "24 tỷ",
+        "location": "Đường Lương Nhữ Hộc, Phường Hòa Cường, Quận Hải Châu, Đà Nẵng",
+        "type": "house",
+        "area": "134m2",
+        "short_description": "7,5m 4 lầu 3 phòng ngủ 18x7,5m Đông Nam",
+        "full_url": "https://alonhadat.com.vn/goc-duong-7m5-luong-nhu-hoc-tt-hai-chau-134m2-ban-nhanh-24-ty-17411838.html"
+      },
+      {
+        "title": "Sup ham 3 tang moi dep mt 7m5 khu a32 duong tran thai tong chi 5 ty",
+        "price": "5,9 tỷ",
+        "location": "Đường Trần Thái Tông, Phường An Khê, Quận Thanh Khê, Đà Nẵng",
+        "type": "house",
+        "area": "60m2",
+        "short_description": "7,5m 3 lầu 3 phòng ngủ 6x10m Đông",
+        "full_url": "https://alonhadat.com.vn/sup-ham-3-tang-moi-dep-mt-7m5-khu-a32-duong-tran-thai-tong-chi-5-ty-x-17413064.html"
+      },
+      {
+        "title": "Hot nha dep thiet ke luxury kiet dien bien phu 5 x ty",
+        "price": "5,85 tỷ",
+        "location": "Đường Điện Biên Phủ, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",
+        "type": "house",
+        "area": "60m2",
+        "short_description": "6m 3 lầu 3 phòng ngủ 5x12m Nam",
+        "full_url": "https://alonhadat.com.vn/hot-nha-dep-thiet-ke-luxury-kiet-dien-bien-phu-5-x-ty-17413290.html"
+      },
+      {
+        "title": "Ban lo goc 2 mt khuc hao son tra son tra vi tri xay khach san cao tang cuc dep chi 20 ty",
+        "price": "20 tỷ",
+        "location": "Đường Khúc Hạo, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",
+        "type": "land",
+        "area": "164m2",
+        "short_description": "10m 8,3x20m Đông Bắc",
+        "full_url": "https://alonhadat.com.vn/ban-lo-goc-2-mt-khuc-hao-son-tra-son-tra-vi-tri-xay-khach-san-cao-tang-cuc-dep-chi-20-ty-17418148.html"
+      },
+      {
+        "title": "Lo goc quyen luc 327m2 khuc hao giao nguyen dinh hoan cuc dep de xay cao tang chi 72tr m2",
+        "price": "24,5 tỷ",
+        "location": "Đường Khúc Hạo, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",
+        "type": "land",
+        "area": "327m2",
+        "short_description": "10m 20x16,5m Đông Nam",
+        "full_url": "https://alonhadat.com.vn/lo-goc-quyen-luc-327m2-khuc-hao-giao-nguyen-dinh-hoan-cuc-dep-de-xay-cao-tang-chi-72tr-m2-17418483.html"
+      }
+    ]
+  },
+  {
+    "name": "Dương Văn Thảo",
+    "phone": null,
+    "email": null,
+    "location": "Quận 1, Hồ Chí Minh",
+    "description": "chuyên môi giới nhà Quận 1,Quân 2,Quận 3,Quận 5,Quận 10,Quận Phú Nhuận,Tân Bình,Bình Thạnh,Thành Phố Thủ Đức",
+    "profile_url": "https://alonhadat.com.vn/nha-moi-gioi/tha-28643.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "Bán nhà đường Lê Văn Sỹ Quận 3 diện tích 10x20m dtcn 190m2",
+        "price": "39 tỷ",
+        "location": "Đường Lê Văn Sỹ, Phường 14, Quận 3, Hồ Chí Minh",
+        "type": "house",
+        "area": "190m2",
+        "short_description": "8m 4 lầu 5 phòng ngủ chỗ để xe",
+        "full_url": "https://alonhadat.com.vn/ban-nha-duong-le-van-sy-quan-3-dien-tich-10x20m-dtcn-190m2-15602024.html"
+      },
+      {
+        "title": "Bán nhà góc 2 mặt tiền đường Phan Đăng Lưu Quận Phú Nhuận dt 6x22 giá chỉ 58 tỷ",
+        "price": "58 tỷ",
+        "location": "Đường Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Hồ Chí Minh",
+        "type": "house",
+        "area": "137m2",
+        "short_description": "30m 5 lầu 9 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/ban-nha-goc-2-mat-tien-duong-phan-dang-luu-quan-phu-nhuan-dt-6x22-gia-chi-58-ty-17407750.html"
+      },
+      {
+        "title": "Bán nhà mặt tiền đường Lê Văn Sỹ Quận 3 đối diện chợ Nguyễn Văn Trỗi giá chỉ 350 triệu/m2",
+        "price": "35 tỷ",
+        "location": "Đường Lê Văn Sỹ, Phường 14, Quận 3, Hồ Chí Minh",
+        "type": "house",
+        "area": "98m2",
+        "short_description": "30m 3 lầu 6 phòng ngủ chỗ để xe",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mat-tien-duong-le-van-sy-quan-3-doi-dien-cho-nguyen-van-troi-gia-chi-350-trieu-m2-16315830.html"
+      },
+      {
+        "title": "Bán nhà 2 mặt tiền Trường Sa Quận Phú Nhuận dt 10x17 kết cấu 4 tầng siêu đẹp",
+        "price": "47 tỷ",
+        "location": "Đường Trường Sa, Phường 7, Quận Phú Nhuận, Hồ Chí Minh",
+        "type": "house",
+        "area": "165m2",
+        "short_description": "20m 4 lầu 8 phòng ngủ chỗ để xe",
+        "full_url": "https://alonhadat.com.vn/ban-nha-2-mat-tien-truong-sa-quan-phu-nhuan-dt-10x17-ket-cau-4-tang-sieu-dep-15714473.html"
+      },
+      {
+        "title": "Bán gấp nhà mặt tiền đường Phan Đình Phùng Quận Phú Nhuận dt 4.5x20",
+        "price": "30,5 tỷ",
+        "location": "Đường Phan Đình Phùng, Phường 17, Quận Phú Nhuận, Hồ Chí Minh",
+        "type": "house",
+        "area": "89m2",
+        "short_description": "30m 3 lầu 5 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/ban-gap-nha-mat-tien-duong-phan-dinh-phung-quan-phu-nhuan-dt-4-5x20-17177998.html"
+      },
+      {
+        "title": "Bán nhà mặt tiền đường Nguyễn Thái Bình dt 5.5x20 giá cực tốt",
+        "price": "24 tỷ",
+        "location": "Đường Nguyễn Thái Bình, Phường 4, Quận Tân Bình, Hồ Chí Minh",
+        "type": "house",
+        "area": "103m2",
+        "short_description": "20m 1 lầu 2 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/ban-gap-nha-mat-tien-duong-nguyen-thai-binh-dt-5-5x20-gia-cuc-tot-17352028.html"
+      },
+      {
+        "title": "Bán nhà mặt tiền đường Nguyễn Văn Thương Phường 25 Bình Thạnh giá cực hot",
+        "price": "22 tỷ",
+        "location": "Đường Nguyễn Văn Thương, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",
+        "type": "house",
+        "area": "80m2",
+        "short_description": "15m 4 lầu 8 phòng ngủ chỗ để xe",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mat-tien-duong-nguyen-van-thuong-phuong-25-binh-thanh-gia-cuc-hot-17031886.html"
+      },
+      {
+        "title": "Bán nhà mặt tiền đường Trần Kế Xương Quận Phú Nhuận nhà đối diện CV Hai Năm",
+        "price": "23 tỷ",
+        "location": "Đường Trần Tế Xương, Phường 7, Quận Phú Nhuận, Hồ Chí Minh",
+        "type": "house",
+        "area": "89m2",
+        "short_description": "20m 3 lầu 6 phòng ngủ chỗ để xe",
+        "full_url": "https://alonhadat.com.vn/ban-nha-mat-tien-duong-tran-ke-xuong-quan-phu-nhuan-nha-doi-dien-cv-hai-nam-17355281.html"
+      },
+      {
+        "title": "Bán nhà góc 2 mặt tiền đường Phan Đăng Lưu Quận Bình Thạnh dt 5.5x16",
+        "price": "26,5 tỷ",
+        "location": "Đường Phan Đăng Lưu, Phường 3, Quận Bình Thạnh, Hồ Chí Minh",
+        "type": "house",
+        "area": "82m2",
+        "short_description": "25m 2 lầu 3 phòng ngủ chỗ để xe",
+        "full_url": "https://alonhadat.com.vn/ban-nha-goc-2-mat-tien-duong-phan-dang-luu-quan-binh-thanh-dt-5-5x16-16490514.html"
+      },
+      {
+        "title": "Siêu phẩm cần bán gấp nhà đường Bùi Đình Túy Quận Bình Thạnh dt 11x30 giá cực tốt",
+        "price": "39 tỷ",
+        "location": "Đường Bùi Đình Túy, Phường 24, Quận Bình Thạnh, Hồ Chí Minh",
+        "type": "house",
+        "area": "329m2",
+        "short_description": "6m 1 lầu 2 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/sieu-pham-can-ban-gap-nha-duong-bui-dinh-tuy-quan-binh-thanh-dt-11x30-gia-cuc-tot-17193873.html"
+      }
+    ]
+  },
+  {
+    "name": "Trần Thị Huyền Trâm",
+    "phone": null,
+    "email": null,
+    "location": "Quận Hải Châu, Đà Nẵng",
+    "description": "Chuyên tư vấn , mua bán bds nhiệt tình và tâm huyết, khách hàng muốn tìm chọn được sản phẩm ưng ý nhất hãy lh mình nha🫶",
+    "profile_url": "https://alonhadat.com.vn/nha-moi-gioi/tra-889979.html",
+    "profile_image_url": null,
+    "properties": [
+      {
+        "title": "Bán Tòa căn hộ Penhouse Đồng Tiến 250 triệu/tháng",
+        "price": "65 tỷ",
+        "location": "Đường An Thượng 32, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "apartment",
+        "area": "153m2",
+        "short_description": "5,5m 6 lầu 14 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-ban-toa-can-ho-penhouse-dong-tien-250trieu-thang--17460248.html"
+      },
+      {
+        "title": "Bán đất MT Mỹ Đà Đông 12 cách phân từ chỉ 20m vài bước ra phố Tây An Thượng",
+        "price": "15 tỷ",
+        "location": "Đường Mỹ Đa Đông 12, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "land",
+        "area": "83m2",
+        "short_description": "5,5m",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-mt-my-da-dong-12-cach-phan-tu-chi-20m-vai-buoc-ra-pho-tay-an-thuong--17457220.html"
+      },
+      {
+        "title": "Bán đất tầng nhà 3 tầng kiệt ô tô Hồ Xuân Hương cách đường chính 20m cách biển chỉ 5",
+        "price": "18 tỷ",
+        "location": "Đường Hồ Xuân Hương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "house",
+        "area": "238m2",
+        "short_description": "3,5m 3 lầu 4 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-tang-nha-3-tang-kiet-o-to-ho-xuan-huong-cach-duong-chinh-20m-cach-bien-chi-5-17456725.html"
+      },
+      {
+        "title": "Nhà 2 tầng sát biển Mỹ Khê gần trung tâm tài chính dt 50m2 ngang 4m",
+        "price": "6,7 tỷ",
+        "location": "Đường Tô Hiến Thành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "49m2",
+        "short_description": "5m 3 lầu 3 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-nha-2-tang-sat-bien-my-khe-gan-trung-tam-tai-chinh-dt-50m2-ngang-4m-17454637.html"
+      },
+      {
+        "title": "Nhà 3 tầng MT Hoàng Dư Khương Khuê kiến cơ rẻ nhất thị trường",
+        "price": "8,5 tỷ",
+        "location": "Đường Hoàng Dư Khương, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",
+        "type": "house",
+        "area": "118m2",
+        "short_description": "7,5m 3 lầu 4 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-nha-3-tang-mt-hoang-du-khuong-kien-co-re-nhat-thi-truong--17454698.html"
+      },
+      {
+        "title": "Cơ hội sở hữu bất động sản đinh cao tại trung tâm TP Đà Nẵng",
+        "price": "18 tỷ",
+        "location": "Đường Hà Thị Thân, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "345m2",
+        "short_description": "3,5m 1 lầu 3 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-co-hoi-so-huu-bat-dong-san-dinh-cao-tai-trung-tam-tp-da-nang--17119624.html"
+      },
+      {
+        "title": "Mặt tiền Lê Quang Đạo Ngũ Hành Sơn Đà Nẵng Đồng Tiến 45 tr/tháng",
+        "price": "23,95 tỷ",
+        "location": "Đường Lê Quang Đạo, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "house",
+        "area": "52m2",
+        "short_description": "17m 4 lầu 4 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-mat-tien-le-quang-dao-ngu-hanh-son-da-nang-dong-tien-45-tr-thang-17457199.html"
+      },
+      {
+        "title": "Bán nhà 3 tầng mặt tiền Điện Biên Phủ Đà Nẵng",
+        "price": "19,5 tỷ",
+        "location": "Đường Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",
+        "type": "house",
+        "area": "162m2",
+        "short_description": "30m 3 lầu 8 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-ban-nha-3-tang-mat-tien-dien-bien-phu-da-nang--17456564.html"
+      },
+      {
+        "title": "Mặt tiền đường Nguyễn Thông Phường An Hải Tây Quận Sơn Trà",
+        "price": "13,3 tỷ",
+        "location": "Đường Nguyễn Thông, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",
+        "type": "house",
+        "area": "79m2",
+        "short_description": "7,5m 3 lầu 4 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-mat-tien-duong-nguyen-thong-phuong-an-hai-tay-quan-son-tra--17453309.html"
+      },
+      {
+        "title": "Bán đất tầng nhà 2 tầng đường 7m5 lẹ 4m Hoàng Văn Hòe Phường Khuê Mỹ",
+        "price": "8,9 tỷ",
+        "location": "Đường Hoàng Văn Hòe, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "type": "house",
+        "area": "100m2",
+        "short_description": "7,5m 2 lầu 2 phòng ngủ",
+        "full_url": "https://alonhadat.com.vn/-ban-dat-tang-nha-2-tang-duong-7m5-le-4m-hoang-van-hoe-phuong-khue-my-17454136.html"
+      }
+    ]
+  }
+]
