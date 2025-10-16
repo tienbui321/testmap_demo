@@ -1,7 +1,7 @@
 [
   {
     "taiKhoan": "nguyenvana",
-    "matKhau": "hashed_password_placeholder_1",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=nguyenvana",
     "roles": ["Người dùng", "Môi giới"],
     "thongTinDanCu": {
@@ -27,7 +27,7 @@
   },
   {
     "taiKhoan": "tranthibinh",
-    "matKhau": "hashed_password_placeholder_2",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=tranthibinh",
     "roles": ["Người dùng"],
     "thongTinDanCu": {
@@ -53,7 +53,7 @@
   },
   {
     "taiKhoan": "leminhcuong",
-    "matKhau": "hashed_password_placeholder_3",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=leminhcuong",
     "roles": ["Luật sư", "Người dùng"],
     "thongTinDanCu": {
@@ -79,7 +79,7 @@
   },
   {
     "taiKhoan": "phamthuha",
-    "matKhau": "hashed_password_placeholder_4",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=phamthuha",
     "roles": ["Công chứng viên"],
     "thongTinDanCu": {
@@ -105,7 +105,7 @@
   },
   {
     "taiKhoan": "hoangducdung",
-    "matKhau": "hashed_password_placeholder_5",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=hoangducdung",
     "roles": ["Người dùng"],
     "thongTinDanCu": {
@@ -131,7 +131,7 @@
   },
   {
     "taiKhoan": "vungocmai",
-    "matKhau": "hashed_password_placeholder_6",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=vungocmai",
     "roles": ["Môi giới", "Người dùng"],
     "thongTinDanCu": {
@@ -157,7 +157,7 @@
   },
   {
     "taiKhoan": "dangquanghuy",
-    "matKhau": "hashed_password_placeholder_7",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=dangquanghuy",
     "roles": ["Luật sư"],
     "thongTinDanCu": {
@@ -183,7 +183,7 @@
   },
   {
     "taiKhoan": "buithuyquynh",
-    "matKhau": "hashed_password_placeholder_8",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=buithuyquynh",
     "roles": ["Công chứng viên", "Người dùng"],
     "thongTinDanCu": {
@@ -209,7 +209,7 @@
   },
   {
     "taiKhoan": "ngogiakhiem",
-    "matKhau": "hashed_password_placeholder_9",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=ngogiakhiem",
     "roles": ["Người dùng"],
     "thongTinDanCu": {
@@ -235,7 +235,7 @@
   },
   {
     "taiKhoan": "dophuonglinh",
-    "matKhau": "hashed_password_placeholder_10",
+    "matKhau": "matkhau",
     "avatar": "https://i.pravatar.cc/150?u=dophuonglinh",
     "roles": ["Người dùng", "Môi giới"],
     "thongTinDanCu": {
