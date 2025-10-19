@@ -23,6 +23,15 @@ const PropertyListManager = {
                 this._appendNextPageToList();
             }
         });
+
+        // Event delegation for gallery clicks
+        this.propertyListContent.addEventListener('click', (e) => {
+            const galleryButton = e.target.closest('.gallery-btn');
+            if (galleryButton) {
+                e.stopPropagation(); // Prevent card click
+                this._handleGalleryClick(galleryButton);
+            }
+        });
     },
 
     render: function(properties) {
@@ -89,47 +98,40 @@ const PropertyListManager = {
                     <p class="text-xs text-slate-400 mt-2">Đăng ngày: ${formattedDate}</p>
                 </div>`;
 
-            card.addEventListener('click', e => { if (!e.target.closest('.gallery-btn, .fav-btn')) this.onCardClick(prop.id); });
+            card.addEventListener('click', () => { this.onCardClick(prop.id); });
             card.addEventListener('mouseover', () => this.onCardMouseover([prop.id]));
             card.addEventListener('mouseout', () => this.onCardMouseout(null));
             this.propertyListContent.appendChild(card);
-            
-            // Attach gallery events
-            this._attachGalleryEvents(card);
         });
 
         lucide.createIcons();
         this.listCurrentPage++;
     },
 
-    _attachGalleryEvents: function(card) {
-        const galleryImg = card.querySelector('.card-gallery img');
-        const prevBtn = card.querySelector('.gallery-btn.prev');
-        const nextBtn = card.querySelector('.gallery-btn.next');
-        
-        if (galleryImg && prevBtn && nextBtn) {
-            try {
-                const images = JSON.parse(galleryImg.dataset.images || '[]');
-                if (images.length > 1) {
-                    nextBtn.addEventListener('click', (e) => {
-                        e.stopPropagation();
-                        let currentIndex = parseInt(galleryImg.dataset.index || '0');
-                        currentIndex = (currentIndex + 1) % images.length;
-                        galleryImg.src = images[currentIndex] || 'https://placehold.co/300x200/e2e8f0/64748b?text=No+Image';
-                        galleryImg.dataset.index = currentIndex;
-                    });
+    _handleGalleryClick: function(button) {
+        const cardGallery = button.closest('.card-gallery');
+        if (!cardGallery) return;
 
-                    prevBtn.addEventListener('click', (e) => {
-                        e.stopPropagation();
-                        let currentIndex = parseInt(galleryImg.dataset.index || '0');
-                        currentIndex = (currentIndex - 1 + images.length) % images.length;
-                        galleryImg.src = images[currentIndex] || 'https://placehold.co/300x200/e2e8f0/64748b?text=No+Image';
-                        galleryImg.dataset.index = currentIndex;
-                    });
-                }
-            } catch(err) {
-                console.error("Failed to parse gallery images for card:", err);
+        const galleryImg = cardGallery.querySelector('img');
+        if (!galleryImg) return;
+        
+        try {
+            const images = JSON.parse(galleryImg.dataset.images || '[]');
+            if (images.length <= 1) return;
+
+            let currentIndex = parseInt(galleryImg.dataset.index || '0');
+
+            if (button.classList.contains('next')) {
+                currentIndex = (currentIndex + 1) % images.length;
+            } else if (button.classList.contains('prev')) {
+                currentIndex = (currentIndex - 1 + images.length) % images.length;
             }
+
+            galleryImg.src = images[currentIndex] || 'https://placehold.co/300x200/e2e8f0/64748b?text=No+Image';
+            galleryImg.dataset.index = currentIndex;
+
+        } catch (err) {
+            console.error("Failed to process gallery click:", err);
         }
     }
 };
